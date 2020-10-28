@@ -1,0 +1,103 @@
+.input
+{
+
+        background: #f1f1f1;
+        width: 350px;
+        border: 3px solid #f1f1f1;
+        border-radius: 5px;
+        padding:2px;
+        text-decoration: solid;
+        font-weight: bold;
+        margin-left: 15px;
+        
+        
+        
+}
+.destination h6{
+    margin-left: 24px;
+    margin-top: 3px;
+}
+.booking-container{
+    width:390px;
+    border:2px solid sandybrown;
+    height:320px;
+
+    border-radius: 10px;
+   background-color:  #fff;
+   padding-top:5px;
+   margin-top:120px;
+   margin-left: 200px;
+   
+
+}
+.contents-container{
+    color:white ;
+    margin-top: 60px;
+    margin-left: 10px;
+}
+.origin h6{
+    margin-left: 47px;
+    color:rgb(214, 210, 210);
+}
+.wrapper-container{
+    display: flex;
+    width:1000px;
+    margin-left: 20px;
+    
+}
+.wrapper{
+    
+    margin-right: 5px;
+    background-color: rgba(0,0,0,0.6);
+    height: 100vh;
+}
+.wrapper::after{
+    position:absolute;
+    content: "";
+    top:0;
+    bottom:0;
+    right:0;
+    left:0;
+    opacity:.7;
+    z-index: -1;
+    background-image: url(../../Image/Rectangle\ 1.png);
+    opacity: 0.7;
+    background-size: cover ;
+    
+    width:100%;
+}
+.date-container{
+    display: flex;
+    margin-right: 90px;
+    margin-top: -35px;
+
+    width:90%
+    
+}
+.date{
+    
+    margin-top:30px ;
+    margin-left:20px;
+    
+    
+    
+
+    background-color:   #f1f1f1;
+}
+.booking-button{
+    width:350px;
+    background-color:rgb(255, 161, 79);
+    border-radius: 5px;
+    padding:5px;
+    margin-left:10px;
+    margin-top:36px;
+    
+}
+.date-text{
+    margin-left: 20px;
+    color:grey;
+}
+.origin h6{
+    margin-left: 15px;
+    color:rgb(214, 210, 210);
+}
