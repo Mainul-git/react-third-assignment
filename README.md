@@ -1,4 +1,4 @@
-<!-- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
@@ -68,5 +68,28 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
- -->
-# Here I am
+
+# Travel-guru
+
+## Features
+
+Site is responsive.React router has been used here to go different path and make the website eye catching.Firebase authentication has been used to redirect the path of hotels.Actually ,overall this is a fancy website.
+
+## Customer
+
+⋅⋅* A customer can easily go to his destination through clicking the desired location.
+
+⋅⋅* Then he can book a order from the form .After,booking the form he will find an authentication form for redirecting to the next path.
+
+## Tchnologies
+
+⋅⋅* React.js
+⋅⋅* Node.js
+⋅⋅* Firebase
+⋅⋅* FontAwesome
+⋅⋅* Google Map API
+
+## [Live](https://condescending-babbage-a28cc7.netlify.app/)
+
+
+
