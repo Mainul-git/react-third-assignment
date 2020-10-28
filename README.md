@@ -77,17 +77,17 @@ Site is responsive.React router has been used here to go different path and make
 
 ## Customer
 
-⋅⋅* A customer can easily go to his destination through clicking the desired location.
+* A customer can easily go to his destination through clicking the desired location.
 
-⋅⋅* Then he can book a order from the form .After,booking the form he will find an authentication form for redirecting to the next path.
+* Then he can book a order from the form .After,booking the form he will find an authentication form for redirecting to the next path.
 
 ## Tchnologies
 
-..* React.js
-..* Node.js
-⋅⋅* Firebase
-⋅⋅* FontAwesome
-⋅⋅* Google Map API
+* React.js
+* Node.js
+* Firebase
+* FontAwesome
+* Google Map API
 
 ## [Live](https://condescending-babbage-a28cc7.netlify.app/)
 
