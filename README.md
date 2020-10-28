@@ -83,8 +83,8 @@ Site is responsive.React router has been used here to go different path and make
 
 ## Tchnologies
 
-⋅⋅* React.js
-⋅⋅* Node.js
+..* React.js
+..* Node.js
 ⋅⋅* Firebase
 ⋅⋅* FontAwesome
 ⋅⋅* Google Map API
